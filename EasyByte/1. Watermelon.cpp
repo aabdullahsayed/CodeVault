@@ -3,9 +3,9 @@
 using namespace std;
 int main()
 {
-    int w;
-    cin >> w;
-    if (w % 2 == 0 && w > 2)
+    int n;
+    cin>>n;
+    if (n % 2 == 0 && n > 2)
     {
         cout << "YES" << endl;
     }
